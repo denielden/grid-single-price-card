@@ -1,6 +1,6 @@
-# Frontend Mentor - Single price grid component solution
+# Single price grid component - Frontend Mentor
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
 
 ## Table of contents
 
@@ -26,14 +26,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/denielden/flex-grid-single-price-card)
-- Live Site URL: [live site](https://denielden.github.io/flex-grid-single-price-card)
+- Solution URL: [github](https://github.com/denielden/grid-single-price-card)
+- Live Site URL: [live site](https://denielden.github.io/grid-single-price-card)
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
 - [Sass](https://sass-lang.com/)
